@@ -10,7 +10,7 @@ interface ClockReset_IFC;
     // Output port for reset signal
     method Action reset;
 endinterface
-
+module
 // Define the module to create clock and reset signals
 module mkClockReset(ClockReset_IFC);
     // Declare the clock signal
