@@ -12,9 +12,7 @@ VSIM ?= cvc
 # VSIM ?= modelsim
 # VSIM ?= ncsim
 # VSIM ?= ncverilog
-
 # ================================================================
-# You should not have to change anything below this line
 
 TOPFILE   ?= $(DISTRO)/Example_Programs/$(EG)/src_BSV/SimpleCPU.bsv
 TOPMODULE ?= mkSimpleCPU
