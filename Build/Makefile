@@ -18,7 +18,7 @@
 EG ?= simple_CPU
 
 # Directory containing the Bluespec Training distribution directory
-DISTRO ?= /home/rishi/Documents/My_Project/CODE_HERE
+DISTRO ?= /home/rishi/Documents/My_Project/CODE_HERE/8bit_simple_cpu/
 
 # Set this to the command that invokes your Verilog simulator
 # VSIM ?= iverilog
