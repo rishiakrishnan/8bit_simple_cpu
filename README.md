@@ -1,3 +1,6 @@
+source code available at:
+https://github.com/rishiakrishnan/8bit_simple_cpu/tree/main/Example_Programs/simple_CPU/src_BSV
+
 EG ?= simple_CPU
 
 DISTRO ?= /home/rishi/Documents/My_Project/CODE_HERE/8bit_simple_cpu/
